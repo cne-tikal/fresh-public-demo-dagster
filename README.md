@@ -1,2 +1,1 @@
-# fresh-public-demo-dagster
-Data platform dagster for fresh-public-demo (created from tikalk/cne-dagster-template)
+successfully downloaded text file (SHA: e69de29bb2d1d6434b8b29ae775ad8c2e48c5391)
